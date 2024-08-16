@@ -14,4 +14,5 @@ The project combines multiple image processing methods to detect hair roots in a
 ## Results
 ![Proje Logosu](results/sample1_result.PNG)                                                                                                       
 ![Proje Logosu](results/sample2_result.PNG)
-
+![Proje Logosu](results/sample3_result.PNG)
+![Proje Logosu](results/sample4_result.PNG)
