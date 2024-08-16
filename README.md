@@ -12,4 +12,5 @@ The project combines multiple image processing methods to detect hair roots in a
 - Marking Hair Roots: Marks the detected hair roots with bounding boxes, making them clearly visible in the processed image.
 
 ## Results
-![Proje Logosu](results/sample1_result.PNG)
+![Proje Logosu](results/sample1_result.PNG)                                                                ![Proje Logosu](results/sample2_result.PNG)
+
