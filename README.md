@@ -10,3 +10,6 @@ The project combines multiple image processing methods to detect hair roots in a
 - Canny Edge Detection: Detects edges in the image using the Canny method, which is known for its accuracy and double-thresholding technique.
 - Morphological Operations: Applies dilation and closing operations to fill gaps between detected edges and enhance hair root visibility.
 - Marking Hair Roots: Marks the detected hair roots with bounding boxes, making them clearly visible in the processed image.
+
+## Results
+![Proje Logosu](results/sample1_result.PNG)
